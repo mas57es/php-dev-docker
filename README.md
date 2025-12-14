@@ -69,7 +69,7 @@ un poco más que el resto de veces
   - database name: test
   - username: test
   - password: test
-- Si necesitas cambiar estos valores vete al fichero docker-compose-moodle.yaml
+- Si necesitas cambiar estos valores vete al fichero docker-compose-wordpress.yaml
 
 ## Entorno Moodle
 ```shell
